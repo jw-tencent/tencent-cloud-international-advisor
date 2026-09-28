@@ -1,0 +1,22 @@
+FICTIONAL EXAMPLE — TENCENT CLOUD INTERNATIONAL CUSTOMER ANSWER
+
+DIRECT ANSWER:
+- Result:
+
+SCOPE AND CONDITIONS:
+- Service:
+- Edition/tier:
+- Region/AZ:
+- Feature/API version:
+- Important limitation:
+
+EVIDENCE:
+- Label: VERIFIED / CUSTOMER-PROVIDED / ESTIMATE / UNKNOWN
+- Official page title:
+- Exact public URL:
+- Access date:
+
+NEXT STEP:
+- Open item:
+- Owner:
+- Official confirmation path:

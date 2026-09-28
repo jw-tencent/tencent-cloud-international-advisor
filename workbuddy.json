@@ -1,0 +1,6 @@
+{
+  "display_name": "Tencent Cloud International Advisor",
+  "display_name_zh": "腾讯云国际服务顾问",
+  "description": "Public customer-facing guidance for Tencent Cloud International products, regions, pricing, architecture, APIs, security, compliance, SLAs, troubleshooting, and support, using current official sources.",
+  "description_zh": "面向客户的腾讯云国际服务问答 Skill，覆盖产品选型、地域可用性、定价、架构、API、安全合规、SLA、排障与支持，并使用当前公开官方来源。"
+}
